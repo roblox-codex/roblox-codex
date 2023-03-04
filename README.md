@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm student of Integrated M.Tech CSE (CS)<br>I'm am looking to contribute in Open Source<br>I'm looking for developing Software <br>I'm currently learning different programming languages<br>Ask me about error handling<br><br>
+I'm student of Integrated M.Tech CSE (CS) 😎 <br>
+I'm am looking to contribute in Open Source 🌐 <br>
+I'm looking for developing Software ♾️ <br>
+I'm currently learning different programming languages ^_~ <br>
+Ask me about error handling ~_~<br><br>
 
 
 ## 🌐 Socials:
